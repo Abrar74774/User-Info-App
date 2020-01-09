@@ -1,3 +1,12 @@
+# User Info App
+
+This is a project done by me to practice React Hooks. 
+It uses json placeholder from <a href='https://jsonplaceholder.typicode.com/users'>https://jsonplaceholder.typicode.com/users</a>
+
+The following is the default documentation from Create-React-App -->
+
+<hr>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
